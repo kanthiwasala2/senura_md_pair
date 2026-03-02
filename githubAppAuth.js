@@ -1,9 +1,9 @@
 import jwt from 'jsonwebtoken';
 import fs from 'fs';
 
-const GITHUB_APP_ID = process.env.GITHUB_APP_ID || "2770727";
+const GITHUB_APP_ID = process.env.GITHUB_APP_ID || "2985471";
 const GITHUB_INSTALLATION_ID =
-  process.env.GITHUB_INSTALLATION_ID || "107251828";
+  process.env.GITHUB_INSTALLATION_ID || "113418865";
 
 // Supports env OR pem file
 const GITHUB_PRIVATE_KEY = process.env.GITHUB_PRIVATE_KEY
