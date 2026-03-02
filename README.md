@@ -1,1 +1,1 @@
-# senura_md_pair
+# NEWPAIR
